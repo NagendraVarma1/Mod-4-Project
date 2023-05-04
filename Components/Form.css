@@ -1,0 +1,28 @@
+.label {
+    font-size: large;
+}
+
+.card {
+    margin-left: 25%;
+    margin-right: 25%;
+    border-style:groove;
+    border-radius: 7px;
+    padding: 10px;
+    background-color: aqua;
+}
+
+.input {
+    margin: 5px;
+    width: 30%;
+    border-radius: 5px;
+}
+
+.addBtn {
+    background-color: rgb(13, 209, 13);
+    margin-left: 45%;
+    margin-top: 15px;
+    padding: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+}
